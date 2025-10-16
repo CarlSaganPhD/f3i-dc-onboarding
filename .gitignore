@@ -1,0 +1,19 @@
+.env
+.venv
+.vscode/
+results/
+__pycache__/
+*.pyc
+venv
+intermediate_files/
+*.xlsx
+*.db
+
+# Used for local file development
+downloads/
+logs/
+nocommit/
+
+.coverage
+*.code-workspace
+
