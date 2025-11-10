@@ -17,3 +17,4 @@ nocommit/
 .coverage
 *.code-workspace
 
+data/
